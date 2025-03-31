@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ranil</h1>
-<h3 align="center">A junior web developer</h3>
+<h3 align="center">Software developer</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif"
 - 📫 How to reach me **ranilkalyan@gmail.com**
 
