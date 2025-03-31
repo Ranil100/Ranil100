@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ranil</h1>
 <h3 align="center">Software developer</h3>
-<img align="right" alt="coding" width="400" src="https://images.app.goo.gl/n5fjTK5otxvYJ6gg8"
+<img align="right" alt="coding" width="400" src="https://images.app.goo.gl/n5fjTK5otxvYJ6gg8">
+
 - 📫 How to reach me **ranilkalyan@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1IloHjD69ZglUZBYaZQRjIJKsLGJ7t-mt/view](https://drive.google.com/file/d/1QXDd5JYmaBmPS3-Q4GJFKyUOe3VgPpFs/view)
