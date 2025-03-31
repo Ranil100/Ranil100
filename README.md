@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ranil</h1>
 <h3 align="center">Software developer</h3>
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FAnmol-Baranwal%2FCool-GIFs-For-GitHub&psig=AOvVaw0ulaZ0CA9Cp75Iy2gCNsYR&ust=1743488807311000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCKC5hYvYs4wDFQAAAAAdAAAAABAZ"
+<img align="right" alt="coding" width="400" src="https://images.app.goo.gl/n5fjTK5otxvYJ6gg8"
 - 📫 How to reach me **ranilkalyan@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1IloHjD69ZglUZBYaZQRjIJKsLGJ7t-mt/view](https://drive.google.com/file/d/1QXDd5JYmaBmPS3-Q4GJFKyUOe3VgPpFs/view)
