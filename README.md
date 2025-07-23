@@ -2,6 +2,7 @@
 
 🚀 **Aspiring Software Engineer**  
 📍 **Passionate about Software Engineering and Cloud**  
+📍 **Interested in Emerging AI Technologies**
 
 ---
 
