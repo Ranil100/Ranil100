@@ -8,8 +8,8 @@
 
 ### 🔧 Technologies & Skills
 
-- **Programming:** C++, Python, SQL
-- **Cloud:** Cloud Computing, Microsoft Azure Fundamentals
+- **Programming:** Java, Python, SQL
+- **Cloud:** Microsoft Azure Fundamentals
 
 
 ---
