@@ -8,8 +8,12 @@
 
 ### 🔧 Technologies & Skills
 
-- **Programming:** Java, Python, SQL
-- **Cloud:** Microsoft Azure Fundamentals
+- **Programming:** Java, Python
+- **Database:** MySQL
+- **Concepts:** DSA, OOP, SDLC
+- **Frontend:** HTML, CSS
+- **Cloud:** Microsoft Azure (Azure VM,Azure V-Net,Azure SQL Database,Azure Blob Storage)
+- **Soft Skills:** Problem Solving, Adaptability, Teamwork
 
 
 ---
@@ -17,7 +21,7 @@
 ### 📬 Connect with Me
 
 💼 **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
-📧 **Email:** ranilkalyan@gmail.com  
+📧 **Email:** ranilk691@gmail.com  
 
 
 ---
