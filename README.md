@@ -1,6 +1,6 @@
 ### Hi there, I'm Ranil! 👋  
 
-🚀 **Aspiring Software Engineer**  
+🚀 **Aspiring Full Stack Developer**  
 📍 **Passionate about Software Engineering and Cloud**  
 📍 **Interested in Emerging AI Technologies**
 
@@ -8,10 +8,11 @@
 
 ### 🔧 Technologies & Skills
 
-- **Programming:** Java, Python
-- **Database:** MySQL
+- **Programming:** Java,JavaScript
+- **Database:** MySQL,MongoDB
 - **Concepts:** DSA, OOP, SDLC
-- **Frontend:** HTML, CSS, JavaScript, ReactJS
+- **Frontend:** HTML, CSS, ReactJS
+- **Backend:** NodeJS,ExpressJS 
 - **Cloud:** Microsoft Azure (Azure VM,Azure V-Net,Azure SQL Database,Azure Blob Storage)
 - **Soft Skills:** Problem Solving, Adaptability, Teamwork
 
