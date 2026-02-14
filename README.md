@@ -17,7 +17,7 @@ Email: ranilk691@gmail.com
 
 ### Connect with me:
 
-[LinkedIn](https://linkedin.com/in/YOUR_PROFILE)
+[LinkedIn](https://www.linkedin.com/in/ranil-ece53/)
 
 ---
 
