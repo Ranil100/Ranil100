@@ -1,32 +1,31 @@
-### Hi there, I'm Ranil! 👋  
-
-🚀 **Aspiring Full Stack Developer**  
-📍 **Passionate about Software Engineering and Cloud**  
-📍 **Interested in Emerging AI Technologies**
+<h1 align="center">Hi 👋, I'm Ranil</h1>
+<h3 align="center">MERN Stack Developer from India 🇮🇳</h3>
 
 ---
 
-### 🔧 Technologies & Skills
+👨‍💻 All of my projects are available at  
+👉 https://github.com/YOUR_USERNAME?tab=repositories
 
-- **Programming:** Java,JavaScript
-- **Database:** MySQL,MongoDB
-- **Concepts:** DSA, OOP, SDLC
-- **Frontend:** HTML, CSS, ReactJS
-- **Backend:** NodeJS,ExpressJS 
-- **Cloud:** Microsoft Azure (Azure VM,Azure V-Net,Azure SQL Database,Azure Blob Storage)
-- **Soft Skills:** Problem Solving, Adaptability, Teamwork
+💬 Ask me about **MERN, REST APIs, Backend Development**
 
+📫 How to reach me:  
+Email: ranilk691@gmail.com
 
----
-
-### 📬 Connect with Me
-
-💼 **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
-📧 **Email:** ranilk691@gmail.com  
-
+⚡ Fun fact: I love building scalable web apps 🚀
 
 ---
 
-🔥 *"Keep learning, keep building!"* 🚀
+### Connect with me:
+
+[LinkedIn](https://linkedin.com/in/YOUR_PROFILE)
+
+---
+
+### Languages and Tools:
+
+<p>
+<img src="https://skillicons.dev/icons?i=js,nodejs,express,react,mongodb,html,css,bootstrap,git,github,aws" />
+</p>
+
 
 
