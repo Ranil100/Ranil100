@@ -24,7 +24,7 @@ Email: ranilk691@gmail.com
 ### Languages and Tools:
 
 <p>
-<img src="https://skillicons.dev/icons?i=js,nodejs,express,react,mongodb,html,css,bootstrap,git,github,aws" />
+<img src="https://skillicons.dev/icons?i=js,nodejs,express,react,mongodb,html,css,tailwindcss,python,git,github,Azure" />
 </p>
 
 
