@@ -1,31 +1,28 @@
-<h1 align="center">Hi 👋, I'm Ranil</h1>
-<h3 align="center">MERN Stack Developer from India 🇮🇳</h3>
+<h1 align="center">Hi 👋, I'm Ranil K</h1>
+<h3 align="center">AI assisted Developer from India 🇮🇳</h3>
 
 ---
 
-👨‍💻 All of my projects are available at  
-👉 https://github.com/Ranil100?tab=repositories
+👨‍💻 **All of my projects are available at:**  
+👉 [github.com/Ranil100](https://github.com/Ranil100?tab=repositories)
 
-💬 Ask me about **MERN, REST APIs, Backend Development**
+💬 **Ask me about:** FastAPI, Python, PostgreSQL, and Building REST APIs
 
-📫 How to reach me:  
-Email: ranilk691@gmail.com
+📫 **How to reach me:**  
+📧 Email: ranilk691@gmail.com
 
-⚡ Fun fact: I love building scalable web apps 🚀
-
----
-
-### Connect with me:
-
-[LinkedIn](https://www.linkedin.com/in/ranil-ece53/)
+⚡ **Fun fact:** I love optimizing backend queries and building scalable web apps 🚀
 
 ---
 
-### Languages and Tools:
+### 🌐 Connect with me:
 
-<p>
-<img src="https://skillicons.dev/icons?i=js,nodejs,express,react,mongodb,html,css,tailwindcss,python,git,github,Azure" />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ranil-ece53/)
+
+---
+
+### 🛠️ Languages and Tools:
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,react,nextjs,tailwindcss,py,fastapi,postgres,mongodb,vercel,render,github,git" alt="My Skills" />
 </p>
-
-
-
