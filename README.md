@@ -24,5 +24,5 @@
 ### 🛠️ Languages and Tools:
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,react,nextjs,tailwindcss,py,fastapi,postgres,mongodb,vercel,render,github,git" alt="My Skills" />
+  <img src="https://skillicons.dev/icons?i=js,react,nextjs,tailwindcss,py,fastapi,postgres,mongodb,vercel,github,git" alt="My Skills" />
 </p>
